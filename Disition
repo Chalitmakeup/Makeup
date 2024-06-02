@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ยืนยันการนัดหมาย</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { padding: 20px; }
+    .header { text-align: center; margin-bottom: 30px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>การนัดหมายของคุณได้รับการยืนยัน</h1>
+    <p>ขอบคุณที่ใช้บริการของเรา เราได้ส่งจดหมายยืนยันไปยังอีเมลของคุณแล้ว
